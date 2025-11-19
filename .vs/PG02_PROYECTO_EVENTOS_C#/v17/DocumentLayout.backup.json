@@ -3,14 +3,122 @@
   "WorkspaceRootPath": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capaentidad\\clspersonareniec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capaentidad\\clspersonareniec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capanegocios\\clsponentes_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capanegocios\\clsponentes_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capadatos\\clsponente_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capadatos\\clsponente_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capaentidad\\clsponente_ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capaentidad\\clsponente_ce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmprincipalmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmprincipalmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmprincipalmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmprincipalmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capaentidad\\clsusuarioce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capaentidad\\clsusuarioce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capanegocios\\clsusuario_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capanegocios\\clsusuario_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\capadatos\\clsusuario_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capadatos\\clsusuario_cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg02_proyecto_eventos_c#\\pg02_proyecto_eventos_c#\\frmeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\frmeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\capadatos\\clsconexion.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capadatos\\clsconexion.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\capanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1930B65-C209-42F3-A2F8-D6FDCAB5AC24}|PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\CapaNegocios.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636119F5-FBD3-4A92-B6AD-5084B6E49E97}|PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\CapaDatos.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCA321A-FF87-4A08-A487-0ECE145CDEAC}|PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\CapaEntidad.csproj|solutionrelative:pg02_proyecto_eventos_c#\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\pg02_proyecto_eventos_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{62D8AFF1-C8C6-4094-90CF-308E9A059F15}|PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#.csproj|solutionrelative:pg02_proyecto_eventos_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -19,6 +127,351 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmCrearCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs*",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAADgvzIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:06:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsPersonaReniec.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPersonaReniec.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPersonaReniec.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPersonaReniec.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPersonaReniec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:59:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCrearCuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmCrearCuenta.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:56:30.541Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsPonentes_CN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsPonentes_CN.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsPonentes_CN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsPonentes_CN.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsPonentes_CN.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:22:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPonente_CD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsPonente_CD.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsPonente_CD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsPonente_CD.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsPonente_CD.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAwKwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:21:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsPonente_CE.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPonente_CE.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPonente_CE.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPonente_CE.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsPonente_CE.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:18:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmPonentes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.Designer.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.Designer.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.Designer.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwIkBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:14:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPonentes.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:14:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.Designer.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:46:23.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAAAGoBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:46:19.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:27:12.319Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPonentes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmPonentes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:26:51.89Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmEventos.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:23:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmEventos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:21:31.299Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPrincipalMDI.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:10:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmPrincipalMDI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmPrincipalMDI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:08:25.333Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\Program.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\Program.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:46:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsUsuario_CN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsUsuario_CN.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsUsuario_CN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsUsuario_CN.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\clsUsuario_CN.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:41:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsUsuario_CD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsUsuario_CD.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsUsuario_CD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsUsuario_CD.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsUsuario_CD.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:38:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAjwLsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:32:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsUsuarioCE.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsUsuarioCE.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsUsuarioCE.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsUsuarioCE.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\clsUsuarioCE.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:29:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsConexion.cs.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsConexion.cs.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsConexion.cs.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsConexion.cs.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\clsConexion.cs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:20:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:18:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:02:03.79Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\Class1.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\Class1.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\Class1.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaNegocios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:47:21.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\Class1.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:46:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\Class1.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\Class1.cs",
+              "RelativeToolTip": "PG02_PROYECTO_EVENTOS_C#\\CapaEntidad\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:46:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG02_PROYECTO_EVENTOS_C#\\PG02_PROYECTO_EVENTOS_C#\\Form1.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_EVENTOS_C#\\Form1.cs",
