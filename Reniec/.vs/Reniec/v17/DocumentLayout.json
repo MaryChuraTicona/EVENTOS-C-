@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|c:\\users\\usuario\\documents\\p2_2025\\proyecto_p2\\reniec\\reniec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|solutionrelative:reniec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|c:\\users\\usuario\\documents\\p2_2025\\proyecto_p2\\reniec\\reniec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|solutionrelative:reniec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|c:\\users\\usuario\\documents\\p2_2025\\proyecto_p2\\reniec\\reniec\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|solutionrelative:reniec\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|c:\\users\\usuario\\documents\\p2_2025\\proyecto_p2\\reniec\\reniec\\personareniec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D3902B-1EFE-4F96-8E7B-C4B18B0C5B05}|Reniec\\Reniec.csproj|solutionrelative:reniec\\personareniec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Reniec\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.Designer.cs",
+              "RelativeToolTip": "Reniec\\Form1.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:46:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.cs",
+              "RelativeDocumentMoniker": "Reniec\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.cs",
+              "RelativeToolTip": "Reniec\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:44:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaReniec.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\PersonaReniec.cs",
+              "RelativeDocumentMoniker": "Reniec\\PersonaReniec.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\PersonaReniec.cs",
+              "RelativeToolTip": "Reniec\\PersonaReniec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:43:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.cs",
+              "RelativeDocumentMoniker": "Reniec\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\P2_2025\\Proyecto_p2\\Reniec\\Reniec\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reniec\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:28:24.874Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

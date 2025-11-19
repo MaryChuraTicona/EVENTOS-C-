@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\bin\Debug\Reniec.exe.config
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\bin\Debug\Reniec.exe
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\bin\Debug\Reniec.pdb
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.Form1.resources
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.Properties.Resources.resources
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.csproj.Up2Date
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.exe
+C:\Users\Usuario\Documents\P2_2025\Proyecto_p2\Reniec\Reniec\obj\Debug\Reniec.pdb
