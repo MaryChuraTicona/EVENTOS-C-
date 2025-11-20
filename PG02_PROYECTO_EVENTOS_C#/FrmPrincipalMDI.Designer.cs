@@ -29,18 +29,20 @@
         private void InitializeComponent()
         {
             this.panelIzquierdo = new System.Windows.Forms.Panel();
-            this.lblNombreUsuario = new System.Windows.Forms.Label();
-            this.lblRolUsuario = new System.Windows.Forms.Label();
-            this.btnEventos = new System.Windows.Forms.Button();
-            this.btnPonentes = new System.Windows.Forms.Button();
-            this.btnUsuarios = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.btnUsuarios = new System.Windows.Forms.Button();
+            this.btnPonentes = new System.Windows.Forms.Button();
+            this.lblRolUsuario = new System.Windows.Forms.Label();
+            this.lblNombreUsuario = new System.Windows.Forms.Label();
+            this.btnEventos = new System.Windows.Forms.Button();
+            this.btnPasarelaPagos = new System.Windows.Forms.Button();
             this.panelIzquierdo.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelIzquierdo
             // 
             this.panelIzquierdo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
+            this.panelIzquierdo.Controls.Add(this.btnPasarelaPagos);
             this.panelIzquierdo.Controls.Add(this.btnSalir);
             this.panelIzquierdo.Controls.Add(this.btnUsuarios);
             this.panelIzquierdo.Controls.Add(this.btnPonentes);
@@ -52,57 +54,20 @@
             this.panelIzquierdo.Size = new System.Drawing.Size(198, 450);
             this.panelIzquierdo.TabIndex = 2;
             // 
-            // lblNombreUsuario
+            // btnSalir
             // 
-            this.lblNombreUsuario.AutoSize = true;
-            this.lblNombreUsuario.Font = new System.Drawing.Font("Century Gothic", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNombreUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblNombreUsuario.Location = new System.Drawing.Point(-7, 9);
-            this.lblNombreUsuario.Name = "lblNombreUsuario";
-            this.lblNombreUsuario.Size = new System.Drawing.Size(207, 38);
-            this.lblNombreUsuario.TabIndex = 1;
-            this.lblNombreUsuario.Text = "¡Bienvenido!";
-            // 
-            // lblRolUsuario
-            // 
-            this.lblRolUsuario.AutoSize = true;
-            this.lblRolUsuario.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRolUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblRolUsuario.Location = new System.Drawing.Point(7, 60);
-            this.lblRolUsuario.Name = "lblRolUsuario";
-            this.lblRolUsuario.Size = new System.Drawing.Size(188, 40);
-            this.lblRolUsuario.TabIndex = 2;
-            this.lblRolUsuario.Text = "Ingresa tus credenciales\r\npara comenzar";
-            // 
-            // btnEventos
-            // 
-            this.btnEventos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnEventos.FlatAppearance.BorderSize = 0;
-            this.btnEventos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEventos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEventos.ForeColor = System.Drawing.Color.White;
-            this.btnEventos.Location = new System.Drawing.Point(0, 115);
-            this.btnEventos.Name = "btnEventos";
-            this.btnEventos.Size = new System.Drawing.Size(198, 45);
-            this.btnEventos.TabIndex = 6;
-            this.btnEventos.Text = "EVENTOS";
-            this.btnEventos.UseVisualStyleBackColor = false;
-            this.btnEventos.Click += new System.EventHandler(this.btnEventos_Click);
-            // 
-            // btnPonentes
-            // 
-            this.btnPonentes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnPonentes.FlatAppearance.BorderSize = 0;
-            this.btnPonentes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPonentes.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPonentes.ForeColor = System.Drawing.Color.White;
-            this.btnPonentes.Location = new System.Drawing.Point(0, 166);
-            this.btnPonentes.Name = "btnPonentes";
-            this.btnPonentes.Size = new System.Drawing.Size(198, 45);
-            this.btnPonentes.TabIndex = 7;
-            this.btnPonentes.Text = "PONENTES";
-            this.btnPonentes.UseVisualStyleBackColor = false;
-            this.btnPonentes.Click += new System.EventHandler(this.btnPonentes_Click);
+            this.btnSalir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnSalir.FlatAppearance.BorderSize = 0;
+            this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSalir.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSalir.ForeColor = System.Drawing.Color.White;
+            this.btnSalir.Location = new System.Drawing.Point(-3, 374);
+            this.btnSalir.Name = "btnSalir";
+            this.btnSalir.Size = new System.Drawing.Size(198, 45);
+            this.btnSalir.TabIndex = 9;
+            this.btnSalir.Text = "SALIR";
+            this.btnSalir.UseVisualStyleBackColor = false;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // btnUsuarios
             // 
@@ -119,20 +84,71 @@
             this.btnUsuarios.UseVisualStyleBackColor = false;
             this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
             // 
-            // btnSalir
+            // btnPonentes
             // 
-            this.btnSalir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnSalir.FlatAppearance.BorderSize = 0;
-            this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSalir.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSalir.ForeColor = System.Drawing.Color.White;
-            this.btnSalir.Location = new System.Drawing.Point(0, 268);
-            this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(198, 45);
-            this.btnSalir.TabIndex = 9;
-            this.btnSalir.Text = "SALIR";
-            this.btnSalir.UseVisualStyleBackColor = false;
-            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
+            this.btnPonentes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnPonentes.FlatAppearance.BorderSize = 0;
+            this.btnPonentes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPonentes.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPonentes.ForeColor = System.Drawing.Color.White;
+            this.btnPonentes.Location = new System.Drawing.Point(0, 166);
+            this.btnPonentes.Name = "btnPonentes";
+            this.btnPonentes.Size = new System.Drawing.Size(198, 45);
+            this.btnPonentes.TabIndex = 7;
+            this.btnPonentes.Text = "PONENTES";
+            this.btnPonentes.UseVisualStyleBackColor = false;
+            this.btnPonentes.Click += new System.EventHandler(this.btnPonentes_Click);
+            // 
+            // lblRolUsuario
+            // 
+            this.lblRolUsuario.AutoSize = true;
+            this.lblRolUsuario.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRolUsuario.ForeColor = System.Drawing.Color.White;
+            this.lblRolUsuario.Location = new System.Drawing.Point(7, 60);
+            this.lblRolUsuario.Name = "lblRolUsuario";
+            this.lblRolUsuario.Size = new System.Drawing.Size(188, 40);
+            this.lblRolUsuario.TabIndex = 2;
+            this.lblRolUsuario.Text = "Ingresa tus credenciales\r\npara comenzar";
+            // 
+            // lblNombreUsuario
+            // 
+            this.lblNombreUsuario.AutoSize = true;
+            this.lblNombreUsuario.Font = new System.Drawing.Font("Century Gothic", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNombreUsuario.ForeColor = System.Drawing.Color.White;
+            this.lblNombreUsuario.Location = new System.Drawing.Point(-7, 9);
+            this.lblNombreUsuario.Name = "lblNombreUsuario";
+            this.lblNombreUsuario.Size = new System.Drawing.Size(207, 38);
+            this.lblNombreUsuario.TabIndex = 1;
+            this.lblNombreUsuario.Text = "¡Bienvenido!";
+            // 
+            // btnEventos
+            // 
+            this.btnEventos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnEventos.FlatAppearance.BorderSize = 0;
+            this.btnEventos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEventos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEventos.ForeColor = System.Drawing.Color.White;
+            this.btnEventos.Location = new System.Drawing.Point(0, 115);
+            this.btnEventos.Name = "btnEventos";
+            this.btnEventos.Size = new System.Drawing.Size(198, 45);
+            this.btnEventos.TabIndex = 6;
+            this.btnEventos.Text = "EVENTOS";
+            this.btnEventos.UseVisualStyleBackColor = false;
+            this.btnEventos.Click += new System.EventHandler(this.btnEventos_Click);
+            // 
+            // btnPasarelaPagos
+            // 
+            this.btnPasarelaPagos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnPasarelaPagos.FlatAppearance.BorderSize = 0;
+            this.btnPasarelaPagos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPasarelaPagos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPasarelaPagos.ForeColor = System.Drawing.Color.White;
+            this.btnPasarelaPagos.Location = new System.Drawing.Point(0, 277);
+            this.btnPasarelaPagos.Name = "btnPasarelaPagos";
+            this.btnPasarelaPagos.Size = new System.Drawing.Size(198, 45);
+            this.btnPasarelaPagos.TabIndex = 10;
+            this.btnPasarelaPagos.Text = "PASARELA DE PAGOS";
+            this.btnPasarelaPagos.UseVisualStyleBackColor = false;
             // 
             // FrmPrincipalMDI
             // 
@@ -159,5 +175,6 @@
         private System.Windows.Forms.Button btnUsuarios;
         private System.Windows.Forms.Button btnPonentes;
         private System.Windows.Forms.Button btnEventos;
+        private System.Windows.Forms.Button btnPasarelaPagos;
     }
 }

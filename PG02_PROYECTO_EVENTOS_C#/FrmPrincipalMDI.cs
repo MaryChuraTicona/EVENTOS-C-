@@ -58,6 +58,12 @@ namespace PG02_PROYECTO_EVENTOS_C_
             mtdAbrirFormularioHijo(new FrmUsuarios());
         }
 
+        private void btnPasarelaPagos_Click(object sender, EventArgs e)
+        {
+            mtdAbrirFormularioHijo(new FrmPasarelaPagos());
+        }
+
+
         private void btnSalir_Click(object sender, EventArgs e)
         {
             if (MessageBox.Show("¿Desea cerrar sesión?", "Confirmación",
