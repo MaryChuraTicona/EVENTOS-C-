@@ -16,7 +16,7 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmRegistroEstudiante());
+            Application.Run(new FrmPasarelaPago());
         }
     }
 }

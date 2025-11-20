@@ -1,57 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\",
+  "WorkspaceRootPath": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|c:\\users\\elvis\\documents\\proyecto\\eventos-c-\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmpasarelapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmpasarelapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|c:\\users\\elvis\\documents\\proyecto\\eventos-c-\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmpasarelapago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmpasarelapago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|c:\\users\\elvis\\documents\\proyecto\\eventos-c-\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmpasarelapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmpasarelapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|c:\\users\\elvis\\documents\\proyecto\\eventos-c-\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroestudiante.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroestudiante.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\frmregistroponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|d:\\upt\\2025\\programacion ii\\unidad iii\\pg02_proyecto_unidad3_eventos\\pg02_proyecto_unidad3_eventos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\pg02_proyecto_unidad3_eventos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{2964B51E-114F-4534-9795-D67340A3DAEC}|PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS.csproj|solutionrelative:pg02_proyecto_unidad3_eventos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -62,27 +74,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmRegistroPonentes.resx",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
-              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
-              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-14T19:21:31.699Z",
+              "DocumentIndex": 1,
+              "Title": "FrmPasarelaPago.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.Designer.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.Designer.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.Designer.cs",
+              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:29:03.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "FrmPasarelaPago.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:15:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPasarelaPago.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmPasarelaPago.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:15:36.971Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FrmRegistroEstudiante.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
               "ViewState": "AgIAAAYBAAAAAAAAAAAwwCIBAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "FrmRegistroEstudiante.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs [Dise\u00F1o]",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T19:14:56.856Z",
@@ -103,24 +141,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
+              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:38:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRegistroPonentes.resx",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
+              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
+              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-14T19:21:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmRegistroPonentes.Designer.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.Designer.cs",
-              "ViewState": "AgIAAMEBAAAAAAAAAAAAAMEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T18:58:24.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FrmRegistroPonentes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs [Dise\u00F1o]",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T18:57:55.116Z",
@@ -128,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T18:54:03.832Z",
@@ -140,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FrmRegistroEstudiante.Designer.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.Designer.cs",
               "ViewState": "AgIAAL0BAAAAAAAAAAAwwOIBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FrmRegistroEstudiante.resx",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroEstudiante.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-11-14T19:19:04.191Z",
@@ -165,24 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
-              "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
-              "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T02:38:29.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "FrmRegistroPonentes.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\FrmRegistroPonentes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Login.resx",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-11-14T18:57:04.362Z",
@@ -203,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
               "RelativeDocumentMoniker": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
-              "ToolTip": "D:\\UPT\\2025\\Programacion II\\Unidad III\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\elvis\\Documents\\Proyecto\\EVENTOS-C-\\PG02_PROYECTO_UNIDAD3_EVENTOS\\PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
               "RelativeToolTip": "PG02_PROYECTO_UNIDAD3_EVENTOS\\Login.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
