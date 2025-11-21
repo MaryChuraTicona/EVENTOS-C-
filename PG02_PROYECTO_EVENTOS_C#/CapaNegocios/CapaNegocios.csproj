@@ -167,6 +167,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="clsPonentes_CN.cs" />
+    <Compile Include="ClsSeguridad_CN.cs" />
     <Compile Include="clsUsuario_CN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

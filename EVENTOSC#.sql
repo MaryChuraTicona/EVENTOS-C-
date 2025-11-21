@@ -734,3 +734,10 @@ VALUES
 ('PONENTE', 'Expositor invitado o conferencista', 1),
 ('ESTUDIANTE', 'Usuario que participa en los eventos EPIS', 1);
 GO
+
+SELECT Correo, ContrasenaHash
+FROM Usuario;
+
+
+UPDATE Usuario
+SET ContrasenaHash = LOWER(CONVERT(VARCHAR(64), HASHBYTES('SHA2_256', ContrasenaHash), 2));

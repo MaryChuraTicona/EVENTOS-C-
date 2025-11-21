@@ -168,6 +168,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="clsConexion.cs.cs" />
     <Compile Include="clsPonente_CD.cs" />
+    <Compile Include="ClsSeguridad_CD.cs" />
     <Compile Include="clsUsuario_CD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

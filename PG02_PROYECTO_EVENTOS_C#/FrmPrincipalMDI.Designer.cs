@@ -51,7 +51,7 @@
             this.panelIzquierdo.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelIzquierdo.Location = new System.Drawing.Point(0, 0);
             this.panelIzquierdo.Name = "panelIzquierdo";
-            this.panelIzquierdo.Size = new System.Drawing.Size(198, 450);
+            this.panelIzquierdo.Size = new System.Drawing.Size(227, 605);
             this.panelIzquierdo.TabIndex = 2;
             this.panelIzquierdo.Paint += new System.Windows.Forms.PaintEventHandler(this.panelIzquierdo_Paint);
             // 
@@ -64,7 +64,7 @@
             this.btnPasarelaPagos.ForeColor = System.Drawing.Color.White;
             this.btnPasarelaPagos.Location = new System.Drawing.Point(0, 277);
             this.btnPasarelaPagos.Name = "btnPasarelaPagos";
-            this.btnPasarelaPagos.Size = new System.Drawing.Size(198, 45);
+            this.btnPasarelaPagos.Size = new System.Drawing.Size(227, 45);
             this.btnPasarelaPagos.TabIndex = 10;
             this.btnPasarelaPagos.Text = "PASARELA DE PAGOS";
             this.btnPasarelaPagos.UseVisualStyleBackColor = false;
@@ -77,9 +77,9 @@
             this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalir.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalir.ForeColor = System.Drawing.Color.White;
-            this.btnSalir.Location = new System.Drawing.Point(-3, 374);
+            this.btnSalir.Location = new System.Drawing.Point(-3, 476);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(198, 45);
+            this.btnSalir.Size = new System.Drawing.Size(230, 45);
             this.btnSalir.TabIndex = 9;
             this.btnSalir.Text = "SALIR";
             this.btnSalir.UseVisualStyleBackColor = false;
@@ -94,7 +94,7 @@
             this.btnUsuarios.ForeColor = System.Drawing.Color.White;
             this.btnUsuarios.Location = new System.Drawing.Point(0, 217);
             this.btnUsuarios.Name = "btnUsuarios";
-            this.btnUsuarios.Size = new System.Drawing.Size(198, 45);
+            this.btnUsuarios.Size = new System.Drawing.Size(227, 45);
             this.btnUsuarios.TabIndex = 8;
             this.btnUsuarios.Text = "USUARIOS";
             this.btnUsuarios.UseVisualStyleBackColor = false;
@@ -109,7 +109,7 @@
             this.btnPonentes.ForeColor = System.Drawing.Color.White;
             this.btnPonentes.Location = new System.Drawing.Point(0, 166);
             this.btnPonentes.Name = "btnPonentes";
-            this.btnPonentes.Size = new System.Drawing.Size(198, 45);
+            this.btnPonentes.Size = new System.Drawing.Size(227, 45);
             this.btnPonentes.TabIndex = 7;
             this.btnPonentes.Text = "PONENTES";
             this.btnPonentes.UseVisualStyleBackColor = false;
@@ -120,7 +120,7 @@
             this.lblRolUsuario.AutoSize = true;
             this.lblRolUsuario.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblRolUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblRolUsuario.Location = new System.Drawing.Point(7, 60);
+            this.lblRolUsuario.Location = new System.Drawing.Point(15, 61);
             this.lblRolUsuario.Name = "lblRolUsuario";
             this.lblRolUsuario.Size = new System.Drawing.Size(188, 40);
             this.lblRolUsuario.TabIndex = 2;
@@ -131,7 +131,7 @@
             this.lblNombreUsuario.AutoSize = true;
             this.lblNombreUsuario.Font = new System.Drawing.Font("Century Gothic", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNombreUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblNombreUsuario.Location = new System.Drawing.Point(-7, 9);
+            this.lblNombreUsuario.Location = new System.Drawing.Point(12, 9);
             this.lblNombreUsuario.Name = "lblNombreUsuario";
             this.lblNombreUsuario.Size = new System.Drawing.Size(207, 38);
             this.lblNombreUsuario.TabIndex = 1;
@@ -147,7 +147,7 @@
             this.btnEventos.ForeColor = System.Drawing.Color.White;
             this.btnEventos.Location = new System.Drawing.Point(0, 115);
             this.btnEventos.Name = "btnEventos";
-            this.btnEventos.Size = new System.Drawing.Size(198, 45);
+            this.btnEventos.Size = new System.Drawing.Size(227, 45);
             this.btnEventos.TabIndex = 6;
             this.btnEventos.Text = "EVENTOS";
             this.btnEventos.UseVisualStyleBackColor = false;
@@ -157,7 +157,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(971, 605);
             this.Controls.Add(this.btnEventos);
             this.Controls.Add(this.panelIzquierdo);
             this.Name = "FrmPrincipalMDI";
