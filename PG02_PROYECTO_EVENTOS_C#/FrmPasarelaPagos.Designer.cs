@@ -1,6 +1,6 @@
 ﻿namespace PG02_PROYECTO_UNIDAD3_EVENTOS
 {
-    partial class FrmPasarelaPago
+    partial class FrmPasarelaPagos
     {
         private System.ComponentModel.IContainer components = null;
 
@@ -114,6 +114,7 @@
             this.panelContenedor.Padding = new System.Windows.Forms.Padding(20);
             this.panelContenedor.Size = new System.Drawing.Size(955, 596);
             this.panelContenedor.TabIndex = 1;
+            this.panelContenedor.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContenedor_Paint);
             // 
             // gbDatosPago
             // 

@@ -217,7 +217,6 @@ C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\P
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmCrearCuenta.resources
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmEventos.resources
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmLogin.resources
-C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_UNIDAD3_EVENTOS.FrmPasarelaPago.resources
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmPonentes.resources
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmPrincipalMDI.resources
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C_.FrmUsuarios.resources
@@ -227,3 +226,4 @@ C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\P
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PRO.CA1CFB45.Up2Date
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C#.exe
 C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_EVENTOS_C#.pdb
+C:\Users\elvis\Documents\Eventos\EVENTOS-C-\PG02_PROYECTO_EVENTOS_C#\obj\Debug\PG02_PROYECTO_UNIDAD3_EVENTOS.FrmPasarelaPagos.resources

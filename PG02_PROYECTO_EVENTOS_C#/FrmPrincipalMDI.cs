@@ -1,4 +1,5 @@
 ﻿using CapaEntidad;
+using PG02_PROYECTO_UNIDAD3_EVENTOS;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -22,6 +23,7 @@ namespace PG02_PROYECTO_EVENTOS_C_
             usuarioActivo = usuario;
             lblNombreUsuario.Text = usuario.Nombres + " " + usuario.Apellidos;
             lblRolUsuario.Text = usuario.NombreRol;
+            btnPasarelaPagos.Click += btnPasarelaPagos_Click;
 
         }
 
@@ -57,10 +59,11 @@ namespace PG02_PROYECTO_EVENTOS_C_
         {
             mtdAbrirFormularioHijo(new FrmUsuarios());
         }
-
+      
         private void btnPasarelaPagos_Click(object sender, EventArgs e)
         {
             mtdAbrirFormularioHijo(new FrmPasarelaPagos());
+
         }
 
 
@@ -71,6 +74,16 @@ namespace PG02_PROYECTO_EVENTOS_C_
             {
                 Application.Exit();
             }
+        }
+
+        private void lblNombreUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelIzquierdo_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

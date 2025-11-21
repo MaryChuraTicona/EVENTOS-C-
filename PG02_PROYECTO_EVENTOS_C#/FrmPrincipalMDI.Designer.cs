@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.panelIzquierdo = new System.Windows.Forms.Panel();
+            this.btnPasarelaPagos = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.btnUsuarios = new System.Windows.Forms.Button();
             this.btnPonentes = new System.Windows.Forms.Button();
             this.lblRolUsuario = new System.Windows.Forms.Label();
             this.lblNombreUsuario = new System.Windows.Forms.Label();
             this.btnEventos = new System.Windows.Forms.Button();
-            this.btnPasarelaPagos = new System.Windows.Forms.Button();
             this.panelIzquierdo.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,6 +53,22 @@
             this.panelIzquierdo.Name = "panelIzquierdo";
             this.panelIzquierdo.Size = new System.Drawing.Size(198, 450);
             this.panelIzquierdo.TabIndex = 2;
+            this.panelIzquierdo.Paint += new System.Windows.Forms.PaintEventHandler(this.panelIzquierdo_Paint);
+            // 
+            // btnPasarelaPagos
+            // 
+            this.btnPasarelaPagos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.btnPasarelaPagos.FlatAppearance.BorderSize = 0;
+            this.btnPasarelaPagos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPasarelaPagos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPasarelaPagos.ForeColor = System.Drawing.Color.White;
+            this.btnPasarelaPagos.Location = new System.Drawing.Point(0, 277);
+            this.btnPasarelaPagos.Name = "btnPasarelaPagos";
+            this.btnPasarelaPagos.Size = new System.Drawing.Size(198, 45);
+            this.btnPasarelaPagos.TabIndex = 10;
+            this.btnPasarelaPagos.Text = "PASARELA DE PAGOS";
+            this.btnPasarelaPagos.UseVisualStyleBackColor = false;
+            this.btnPasarelaPagos.Click += new System.EventHandler(this.btnPasarelaPagos_Click);
             // 
             // btnSalir
             // 
@@ -120,6 +136,7 @@
             this.lblNombreUsuario.Size = new System.Drawing.Size(207, 38);
             this.lblNombreUsuario.TabIndex = 1;
             this.lblNombreUsuario.Text = "¡Bienvenido!";
+            this.lblNombreUsuario.Click += new System.EventHandler(this.lblNombreUsuario_Click);
             // 
             // btnEventos
             // 
@@ -135,20 +152,6 @@
             this.btnEventos.Text = "EVENTOS";
             this.btnEventos.UseVisualStyleBackColor = false;
             this.btnEventos.Click += new System.EventHandler(this.btnEventos_Click);
-            // 
-            // btnPasarelaPagos
-            // 
-            this.btnPasarelaPagos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.btnPasarelaPagos.FlatAppearance.BorderSize = 0;
-            this.btnPasarelaPagos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPasarelaPagos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPasarelaPagos.ForeColor = System.Drawing.Color.White;
-            this.btnPasarelaPagos.Location = new System.Drawing.Point(0, 277);
-            this.btnPasarelaPagos.Name = "btnPasarelaPagos";
-            this.btnPasarelaPagos.Size = new System.Drawing.Size(198, 45);
-            this.btnPasarelaPagos.TabIndex = 10;
-            this.btnPasarelaPagos.Text = "PASARELA DE PAGOS";
-            this.btnPasarelaPagos.UseVisualStyleBackColor = false;
             // 
             // FrmPrincipalMDI
             // 

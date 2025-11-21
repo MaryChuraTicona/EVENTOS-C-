@@ -1,24 +1,21 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using QRCoder;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
-using QRCoder; // Necesario: QRCoder NuGet
 
 namespace PG02_PROYECTO_UNIDAD3_EVENTOS
 {
-    public partial class FrmPasarelaPago : Form
+    public partial class FrmPasarelaPagos : Form
     {
-        // ---- CONFIGURA AQUÍ tu cadena de conexión ----
-        // Reemplaza por tu servidor / base de datos
         private string connectionString = @"Server=TU_SERVIDOR;Database=TU_BASE;Trusted_Connection=True;";
-        // ------------------------------------------------
 
-        // Ruta donde se guardarán comprobantes (ajusta)
         private string rutaComprobantes = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Comprobantes");
 
-        public FrmPasarelaPago()
+        public FrmPasarelaPagos()
         {
             InitializeComponent();
             InicializarFormulario();
@@ -26,7 +23,6 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
 
         private void InicializarFormulario()
         {
-            // Inicializaciones varias
             if (!Directory.Exists(rutaComprobantes))
                 Directory.CreateDirectory(rutaComprobantes);
 
@@ -36,31 +32,27 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
             txtMontoAutorizado.Text = "";
             txtCodigoAutorizacion.Text = "";
             txtRawResponseJSON.Text = "";
-            cmbMetodoPago.SelectedIndex = 0; // Yape por defecto
+            cmbMetodoPago.SelectedIndex = 0;
             picQR.Image = null;
             picComprobante.Image = null;
         }
 
-        // Cerrar
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        // Nuevo: limpia
         private void btnNuevo_Click(object sender, EventArgs e)
         {
             InicializarFormulario();
             txtConcepto.Focus();
         }
 
-        // Cancelar = cerrar
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        // Cargar comprobante de pago (imagen)
         private void btnCargarComprobante_Click(object sender, EventArgs e)
         {
             if (openFileDialog.ShowDialog() == DialogResult.OK)
@@ -69,7 +61,6 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
                 try
                 {
                     picComprobante.Image = Image.FromFile(archivo);
-                    // opcional: guardar copia temporal o dejar para guardar al presionar Guardar
                 }
                 catch (Exception ex)
                 {
@@ -78,10 +69,8 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
             }
         }
 
-        // Generar QR: crea un texto/URI para abrir Yape/Plin (básico) y genera imagen QR
         private void btnGenerarPago_Click(object sender, EventArgs e)
         {
-            // Validaciones básicas
             if (!decimal.TryParse(txtMonto.Text.Trim(), out decimal monto) || monto <= 0)
             {
                 MessageBox.Show("Ingrese un monto válido (> 0).");
@@ -90,32 +79,20 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
 
             string metodo = cmbMetodoPago.SelectedItem?.ToString() ?? "Yape";
 
-            // Generamos un payload simple; puedes adaptar al formato que desees
-            // Ejemplo: yape://pay?phone=999999999&amount=20
-            // Para el proyecto universitario un URI simple está bien:
-            string telefonoDestino = "999999999"; // <- reemplazar por tu número Yape/Plin si quieres
+            string telefonoDestino = "999999999";
             string uri = "";
 
             if (metodo == "Yape")
-            {
-                // Formato simplificado; muchas apps abren URI custom
                 uri = $"yape://pay?phone={telefonoDestino}&amount={monto:F2}";
-            }
-            else // Plin
-            {
+            else
                 uri = $"plin://pay?phone={telefonoDestino}&amount={monto:F2}";
-            }
 
-            // También incluimos un URI interno de tu sistema para referencia
-            // por ejemplo para registrar la TransaccionInterna antes de pagar:
             string referenciaInterna = $"ORD-{txtIdOrden.Text.Trim()}-{DateTime.Now:yyyyMMddHHmmss}";
             string contenidoQR = $"{uri}|ref={referenciaInterna}|concepto={txtConcepto.Text.Trim()}";
 
-            // Guardamos el id transaccion externa provisional como la referencia interna
             txtIdTransaccionExterna.Text = referenciaInterna;
             txtEstadoPasarela.Text = "QR GENERADO";
 
-            // Generar QR con QRCoder
             try
             {
                 using (QRCodeGenerator qrGenerator = new QRCodeGenerator())
@@ -132,49 +109,41 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
             }
         }
 
-        // Verificar Pago (manual / simulado)
-        // En un sistema real, aquí el admin validaría el comprobante y se pondría "Validado"
         private void btnVerificarPago_Click(object sender, EventArgs e)
         {
-            // Simulación: si hay imagen de comprobante, marcamos "Validado"
             if (picComprobante.Image == null)
             {
-                MessageBox.Show("No se ha cargado comprobante. El usuario debe subir su comprobante para validar.");
+                MessageBox.Show("No se ha cargado comprobante.");
                 return;
             }
 
-            // En una versión simple se pide al admin confirmar
-            var res = MessageBox.Show("¿Confirmas que el pago es correcto y deseas marcarlo como VALIDADO?", "Verificar pago", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            var res = MessageBox.Show("¿Confirmar pago y marcar VALIDADO?", "Verificar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (res == DialogResult.Yes)
             {
                 txtEstadoPasarela.Text = "Validado";
                 txtMontoAutorizado.Text = txtMonto.Text.Trim();
                 txtCodigoAutorizacion.Text = "AUT-" + DateTime.Now.ToString("yyyyMMddHHmmss");
                 txtRawResponseJSON.Text = "{ \"metodo\":\"" + cmbMetodoPago.SelectedItem + "\", \"verificado_por\":\"admin\" }";
-                MessageBox.Show("Pago marcado como VALIDADO.");
+                MessageBox.Show("Pago VALIDADO.");
             }
         }
 
-        // Guardar la transacción en la base de datos (TransaccionPasarela)
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            // Validaciones
             if (!int.TryParse(txtIdOrden.Text.Trim(), out int idOrden))
             {
-                MessageBox.Show("Ingrese un IdOrden válido (número entero).");
+                MessageBox.Show("Ingrese un IdOrden válido.");
                 return;
             }
 
             if (!decimal.TryParse(txtMonto.Text.Trim(), out decimal monto))
             {
-                MessageBox.Show("Ingrese un monto válido.");
+                MessageBox.Show("Monto inválido.");
                 return;
             }
 
-            // Determinar IdPasarelaPago según método (1=Yape, 2=Plin)
             int idPasarela = (cmbMetodoPago.SelectedItem?.ToString() == "Plin") ? 2 : 1;
 
-            // Guardar comprobante (si existe) en carpeta y obtener nombre de archivo
             string nombreArchivoComprobante = null;
             if (picComprobante.Image != null)
             {
@@ -182,24 +151,23 @@ namespace PG02_PROYECTO_UNIDAD3_EVENTOS
                 {
                     nombreArchivoComprobante = $"CMP_{idOrden}_{DateTime.Now:yyyyMMddHHmmss}.png";
                     string rutaCompleta = Path.Combine(rutaComprobantes, nombreArchivoComprobante);
-                    picComprobante.Image.Save(rutaCompleta); // formato PNG por defecto
+                    picComprobante.Image.Save(rutaCompleta);
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error guardando comprobante: " + ex.Message);
+                    MessageBox.Show("Error al guardar comprobante: " + ex.Message);
                     return;
                 }
             }
 
-            // Preparar valores para insertar
             string idTransaccionExterna = txtIdTransaccionExterna.Text.Trim();
             string estado = txtEstadoPasarela.Text.Trim();
             decimal? montoAutorizado = null;
             if (decimal.TryParse(txtMontoAutorizado.Text.Trim(), out decimal mAuto)) montoAutorizado = mAuto;
+
             string codigoAut = txtCodigoAutorizacion.Text.Trim();
             string rawJson = txtRawResponseJSON.Text.Trim();
 
-            // Insert en TransaccionPasarela
             try
             {
                 using (SqlConnection cn = new SqlConnection(connectionString))
@@ -225,25 +193,28 @@ SELECT SCOPE_IDENTITY();";
                         cmd.Parameters.Add("@RawResponseJSON", SqlDbType.NVarChar).Value = (object)rawJson ?? DBNull.Value;
 
                         object result = cmd.ExecuteScalar();
+
                         if (result != null)
                         {
                             int idTransaccionInsertada = Convert.ToInt32(result);
                             MessageBox.Show("Transacción guardada con ID: " + idTransaccionInsertada);
-
-                            // Opcional: actualizar un campo de OrdenPago como 'EstadoPago' si tienes esa columna
-                            // También puedes guardar el nombre del comprobante asociado en otra tabla o columna
                         }
                         else
                         {
-                            MessageBox.Show("No se pudo obtener el Id insertado.");
+                            MessageBox.Show("Error insertando transacción.");
                         }
                     }
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al guardar la transacción: " + ex.Message);
+                MessageBox.Show("Error al guardar: " + ex.Message);
             }
+        }
+
+        private void panelContenedor_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

@@ -62,7 +62,7 @@
             this.panelIzquierdo.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelIzquierdo.Location = new System.Drawing.Point(0, 0);
             this.panelIzquierdo.Name = "panelIzquierdo";
-            this.panelIzquierdo.Size = new System.Drawing.Size(330, 423);
+            this.panelIzquierdo.Size = new System.Drawing.Size(330, 545);
             this.panelIzquierdo.TabIndex = 1;
             // 
             // pictureBox1
@@ -116,7 +116,7 @@
             this.panelDerecho.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelDerecho.Location = new System.Drawing.Point(330, 0);
             this.panelDerecho.Name = "panelDerecho";
-            this.panelDerecho.Size = new System.Drawing.Size(441, 423);
+            this.panelDerecho.Size = new System.Drawing.Size(533, 545);
             this.panelDerecho.TabIndex = 2;
             this.panelDerecho.Paint += new System.Windows.Forms.PaintEventHandler(this.panelDerecho_Paint);
             // 
@@ -127,7 +127,7 @@
             this.btnCrearCuenta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCrearCuenta.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCrearCuenta.ForeColor = System.Drawing.Color.White;
-            this.btnCrearCuenta.Location = new System.Drawing.Point(158, 369);
+            this.btnCrearCuenta.Location = new System.Drawing.Point(103, 446);
             this.btnCrearCuenta.Name = "btnCrearCuenta";
             this.btnCrearCuenta.Size = new System.Drawing.Size(280, 45);
             this.btnCrearCuenta.TabIndex = 12;
@@ -153,7 +153,7 @@
             this.btnRefrescar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRefrescar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRefrescar.ForeColor = System.Drawing.Color.White;
-            this.btnRefrescar.Location = new System.Drawing.Point(232, 236);
+            this.btnRefrescar.Location = new System.Drawing.Point(322, 236);
             this.btnRefrescar.Name = "btnRefrescar";
             this.btnRefrescar.Size = new System.Drawing.Size(44, 40);
             this.btnRefrescar.TabIndex = 10;
@@ -164,7 +164,7 @@
             // txtCaptcha
             // 
             this.txtCaptcha.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCaptcha.Location = new System.Drawing.Point(103, 292);
+            this.txtCaptcha.Location = new System.Drawing.Point(170, 292);
             this.txtCaptcha.Name = "txtCaptcha";
             this.txtCaptcha.PasswordChar = '●';
             this.txtCaptcha.Size = new System.Drawing.Size(110, 27);
@@ -172,9 +172,9 @@
             // 
             // picCaptcha
             // 
-            this.picCaptcha.Location = new System.Drawing.Point(86, 236);
+            this.picCaptcha.Location = new System.Drawing.Point(154, 236);
             this.picCaptcha.Name = "picCaptcha";
-            this.picCaptcha.Size = new System.Drawing.Size(127, 50);
+            this.picCaptcha.Size = new System.Drawing.Size(143, 50);
             this.picCaptcha.TabIndex = 8;
             this.picCaptcha.TabStop = false;
             // 
@@ -199,7 +199,7 @@
             this.lblOlvidoPassword.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblOlvidoPassword.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblOlvidoPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
-            this.lblOlvidoPassword.Location = new System.Drawing.Point(34, 397);
+            this.lblOlvidoPassword.Location = new System.Drawing.Point(151, 380);
             this.lblOlvidoPassword.Name = "lblOlvidoPassword";
             this.lblOlvidoPassword.Size = new System.Drawing.Size(179, 17);
             this.lblOlvidoPassword.TabIndex = 6;
@@ -274,7 +274,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(771, 423);
+            this.ClientSize = new System.Drawing.Size(863, 545);
             this.Controls.Add(this.panelDerecho);
             this.Controls.Add(this.panelIzquierdo);
             this.Name = "FrmLogin";

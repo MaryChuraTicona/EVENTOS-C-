@@ -213,9 +213,6 @@
     <Compile Include="FrmPasarelaPagos.Designer.cs">
       <DependentUpon>FrmPasarelaPagos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmPasarelaPagos1.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="FrmPonentes.cs">
       <SubType>Form</SubType>
     </Compile>

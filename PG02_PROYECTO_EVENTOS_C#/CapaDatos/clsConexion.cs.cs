@@ -15,7 +15,7 @@ namespace CapaDatos
         public clsConexion()
         {
         
-            cadenaConexion = "Server=DESKTOP-H2DTJ40;" +
+            cadenaConexion = "Server=ELVIS;" +
                              "Database=EVENTOSC#;" +
                              "Integrated Security=True;" +
                              "TrustServerCertificate=True;";
